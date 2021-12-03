@@ -1,0 +1,129 @@
+{
+  "Home": {},
+  "Product": {},
+  "AboutBrand": [
+    {
+      "url": "./images/exampl.svg#icon-needle",
+      "text": "Уровень пошива приравнивается к индивидуальному;"
+    },
+    {
+      "url": "./images/exampl.svg#icon-mannequin",
+      "text": "Создаем лекала для костюмов, которые подчеркивают достоинства и скрывают недостатки фигуры;"
+    },
+    {
+      "url": "./images/exampl.svg#icon-flower",
+      "text": "Качественное исполнение: ровные отстрочки, красивая обработка – вы можете носить вещи даже изнаночной стороной;"
+    },
+    {
+      "url": "./images/exampl.svg#icon-sewing-machine",
+      "text": "Используем современное оборудование и качественные материалы для изготовления изделий;"
+    },
+    {
+      "url": "./images/exampl.svg#icon-cuboc",
+      "text": "Наши швеи занимаются пошивом и конструированием одежды более 20 лет. За это время их навыки доведены до идеала..."
+    }
+  ],
+  "Fitting": {},
+  "Delivery": {},
+  "Contact": {
+    "phoneNumber": "+380000000000",
+    "phoneNumberFormated": "+38 (000) 000-00-00",
+    "viberNumber": "+38 (099) 111-11-11",
+    "viberRef": "viber://chat?number=%2B380953542491",
+    "email": "info@eleanboutique.ua",
+    "entrepreneurName": "ИП ПИСАРЕВА Е.М.",
+    "entrepreneurInfo": "ОГРНИП 307610509600011",
+    "visitingHours": "с 9.00 до 21.00 шоурум: с 12.00 до 21.00",
+    "adress": "г. Киев, Контрактовая площадь 8"
+  },
+  "favorite": {},
+  "ordering(method.json)": {
+    "delivery": [
+      {
+        "id": "delivery-method--Showroom",
+        "text": "Шоурум",
+        "value": "Showroom"
+      },
+      {
+        "id": "delivery-method--By_courier_in_Kiev",
+        "text": "Курьером по Киеву",
+        "value": "By_courier_in_Kiev"
+      },
+      {
+        "id": "delivery-method--checked",
+        "text": "Курьером по Украине",
+        "value": "By_courier_in_Ukraine",
+        "checked": "checked"
+      },
+      {
+        "id": "delivery-method--By_courier_abroad",
+        "text": "Курьером за границу",
+        "value": "By_courier_abroad"
+      }
+    ],
+    "payment": [
+      {
+        "id": "XWaQXcb11",
+        "text": "Оплата картой",
+        "value": "Payment_by_card",
+        "checked": "checked"
+      },
+      {
+        "id": "XWaREcv22",
+        "text": "Наличными курьеру",
+        "value": "Cash_to_the_courier"
+      },
+      {
+        "id": "XWaNHbn33",
+        "text": "Наложенный платеж",
+        "value": "C.O.D"
+      },
+      {
+        "id": "XWaTYmk44",
+        "text": "Купить в рассрочку",
+        "value": "Buy_in_installments"
+      }
+    ],
+    "day-data": [
+      {
+        "day": "Сегодня",
+        "data": "29 марта"
+      },
+      {
+        "day": "Завтра",
+        "data": "30 марта"
+      },
+      {
+        "day": "Четверг",
+        "data": "31 марта"
+      },
+      {
+        "day": "Пятнцица",
+        "data": "1 апреля"
+      },
+      {
+        "day": "Суббота",
+        "data": "2 апреля"
+      },
+      {
+        "day": "Воскресенье",
+        "data": "3 апреля"
+      },
+      {
+        "day": "Понедельник",
+        "data": "4 апреля"
+      }
+    ],
+    "time": [
+      {
+        "time": "С 12 до 15 часов"
+      },
+      {
+        "time": "С 15 до 18 часов"
+      },
+      {
+        "time": "С 18 до 21 часов"
+      }
+    ]
+  }
+}

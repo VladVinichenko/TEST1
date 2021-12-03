@@ -1,0 +1,3 @@
+deliveryImage
+favorites
+sizeChose
