@@ -4,6 +4,11 @@
   "productName": "Классический комплект со смокингом и желетом",
   "productPrice": "65 300",
   "productAbout": "Подчеркнёт линию талии",
+  "category": [
+    "Новинки",
+    "Топы и жилеты"
+  ],
+  "collection": [],
   "image": [
     {
       "imageDesctopMini": "./images/tuxedo-and-vest-mini-desktop-1.jpg ",
